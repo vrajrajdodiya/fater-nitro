@@ -1,0 +1,6 @@
+{
+  "name": "Faster Nitro 3D - Mobile Car Racing",
+  "description": "High-octane mobile 3D car racing game with 100 unique levels, customizable supercars, realistic vehicle physics, touch controls, and AI competitors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
